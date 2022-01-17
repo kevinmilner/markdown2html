@@ -6,5 +6,5 @@ This simply wraps Markdown tools available in [OpenSHA](https://github.com/opens
 Don't bother cloning this (you'll have to also clone OpenSHA in the same parent directory and there's really not much here), just downlaod a jar file from the releases page. Then run with:
 
 ```
-java -jar markdown2html.jar
+java -jar markdown2html.jar <input-file.md> <output-file.html>
 ```
